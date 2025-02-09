@@ -1,2 +1,3 @@
 from .in_memory_dfa_repository import InMemoryDfaRepository
 from .in_memory_npda_repository import InMemoryNpdaRepository
+from .in_memory_dtm_repository import InMemoryDtmRepository
