@@ -14,7 +14,7 @@ class UpdateDfaController:
     self.__repository = repository
   
   def execute(self, *, dfa : UpdateDfaBodyRequestDto, id : str):
-    updatedFda = self.__repository.updateById(
+    updatedDfa = self.__repository.updateById(
       id = id,
       states = dfa.states,
       inputSymbols = dfa.inputSymbols,
@@ -22,4 +22,4 @@ class UpdateDfaController:
       initialState = dfa.initialState,
       finalStates = dfa.finalStates
     )
-    return updatedFda
+    return updatedDfa
