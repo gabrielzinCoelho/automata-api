@@ -2,6 +2,8 @@
 
 Esta API fornece funcionalidades para criar, recuperar, atualizar, validar e salvar uma representação gráfica de autômatos finitos determinísticos (DFA), Autômatos com Pilha Não Determinísticos (NPDA) e Máquinas de Turing Determinísticas (DMT).
 
+[![Vídeo de apresentação do projeto](https://img.youtube.com/vi/1c6fdtzmrNM/0.jpg)](https://www.youtube.com/watch?v=1c6fdtzmrNM)
+
 ## Configuração e Execução
 
 ### Passos para configuração
