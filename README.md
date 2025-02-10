@@ -59,7 +59,7 @@ Os dados são representados por models, que definem as entidades da aplicação,
 
 ## Testes
 
-Para testar os endpoints da API e validar a funcionalidade das operações com os autômatos, foram utilizados casos de teste teóricos, baseados em entradas de exemplo. 
+Para testar os endpoints da API e validar a funcionalidade das operações com os autômatos, foram utilizados casos de teste teóricos, baseados em entradas de exemplo. Os testes podem ser encontrados no diretório [/testes-insomnia](/testes-insomnia). 
 
 A ferramenta Insomnia foi empregada para realizar as requisições e simular testes de ponta a ponta (E2E), permitindo verificar se os endpoints estão respondendo corretamente às operações, como criação, atualização e verificação de aceitação de strings. 
 
