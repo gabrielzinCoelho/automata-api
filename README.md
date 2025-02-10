@@ -48,7 +48,7 @@ Os dados são representados por models, que definem as entidades da aplicação,
   * Salvar uma representação gráfica de DFA.
   * Validar strings
 
-*  Autômatos com Pilha: 
+* Autômatos com Pilha: 
   * Criar e visualizar autômatos que utilizam pilha, possibilitando operações mais complexas.
   * Salvar uma representação gráfica de NPDA.
   * Validar strings
